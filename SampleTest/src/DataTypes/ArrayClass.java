@@ -6,6 +6,7 @@ public class ArrayClass {
 	
 		String[] a = {"afsdf", "dsfd", "sdf", "asfas", "sfasdf"};
 		System.out.println(a[2]);
+		System.out.println(a[5]);
 		
 		/*for (int i = 0; i < a.length; i ++){
 			System.out.println(a[i]);
